@@ -1,0 +1,11 @@
+/Users/macbook/Desktop/TreeHouse Game/TreeHouse-Practice/bin/Debug/netcoreapp3.1/TreeHouse-Practice
+/Users/macbook/Desktop/TreeHouse Game/TreeHouse-Practice/bin/Debug/netcoreapp3.1/TreeHouse-Practice.deps.json
+/Users/macbook/Desktop/TreeHouse Game/TreeHouse-Practice/bin/Debug/netcoreapp3.1/TreeHouse-Practice.runtimeconfig.json
+/Users/macbook/Desktop/TreeHouse Game/TreeHouse-Practice/bin/Debug/netcoreapp3.1/TreeHouse-Practice.runtimeconfig.dev.json
+/Users/macbook/Desktop/TreeHouse Game/TreeHouse-Practice/bin/Debug/netcoreapp3.1/TreeHouse-Practice.dll
+/Users/macbook/Desktop/TreeHouse Game/TreeHouse-Practice/bin/Debug/netcoreapp3.1/TreeHouse-Practice.pdb
+/Users/macbook/Desktop/TreeHouse Game/TreeHouse-Practice/obj/Debug/netcoreapp3.1/TreeHouse-Practice.csprojAssemblyReference.cache
+/Users/macbook/Desktop/TreeHouse Game/TreeHouse-Practice/obj/Debug/netcoreapp3.1/TreeHouse-Practice.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/TreeHouse Game/TreeHouse-Practice/obj/Debug/netcoreapp3.1/TreeHouse-Practice.AssemblyInfo.cs
+/Users/macbook/Desktop/TreeHouse Game/TreeHouse-Practice/obj/Debug/netcoreapp3.1/TreeHouse-Practice.dll
+/Users/macbook/Desktop/TreeHouse Game/TreeHouse-Practice/obj/Debug/netcoreapp3.1/TreeHouse-Practice.pdb
