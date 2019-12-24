@@ -14,7 +14,7 @@ namespace TreeHouse_Practice {
         public bool OnMap(Point point)
         {
            return point._x >=0 && point._x < _width && point._y >= 0 && point._y < _height;
-        }
+        } 
         
     }
 }

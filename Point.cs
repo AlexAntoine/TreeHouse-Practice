@@ -15,8 +15,16 @@ namespace TreeHouse_Practice {
 
         public int distanceTo(int x, int y)
         {
-            return (int)Math.Sqrt(Math.Pow(_x-x, 2) + Math.Pow(_y - y, 2));
+            // calcuated distance between two point 
 
+            return (int)Math.Sqrt(Math.Pow(_x-x, 2) + Math.Pow(_y - y, 2));
+        }
+
+        public int distanceTo(Point point)
+        {
+            //calculates the distance between two point objects
+            
+            return distanceTo(point._x, point._y);
         }
     }
 }

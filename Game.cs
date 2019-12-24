@@ -10,7 +10,6 @@ namespace TreeHouse_Practice
 
            Point point = new Point(4,2);
           
-
            Console.WriteLine(point.distanceTo(5,5));
         }
     }
