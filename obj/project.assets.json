@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/macbook/Desktop/TreeHouse Game/TreeHouse-Practice/TreeHouse-Practice.csproj",
+      "projectUniqueName": "/Users/macbook/Desktop/TreeHouse Game/TreeHouse-Practice/TreeHouse-Practice/TreeHouse-Practice.csproj",
       "projectName": "TreeHouse-Practice",
-      "projectPath": "/Users/macbook/Desktop/TreeHouse Game/TreeHouse-Practice/TreeHouse-Practice.csproj",
+      "projectPath": "/Users/macbook/Desktop/TreeHouse Game/TreeHouse-Practice/TreeHouse-Practice/TreeHouse-Practice.csproj",
       "packagesPath": "/Users/macbook/.nuget/packages/",
-      "outputPath": "/Users/macbook/Desktop/TreeHouse Game/TreeHouse-Practice/obj/",
+      "outputPath": "/Users/macbook/Desktop/TreeHouse Game/TreeHouse-Practice/TreeHouse-Practice/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

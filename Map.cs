@@ -7,8 +7,8 @@ namespace TreeHouse_Practice {
 
         public Map(int width, int height)
         {
-            width = _width;
-            heigth = _height;
+            _width = width;
+            _height = height;
         }
 
         public bool OnMap(Point point)
