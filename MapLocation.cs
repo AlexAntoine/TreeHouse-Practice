@@ -6,7 +6,7 @@ namespace TreeHouse_Practice {
         {
             if(!Map.OnMap(this))
             {
-                throw new System.Exception();
+                throw new OutofBoundsException( x + "," + y + " is outsode the boundaries of the map  ");
             }
         }
     }

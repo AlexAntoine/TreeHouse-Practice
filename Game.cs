@@ -12,13 +12,11 @@ namespace TreeHouse_Practice
            {
                MapLocation maplocation = new MapLocation(20,20, map);
            }
-           catch (System.Exception)
+           catch (Exception ex)
            {
                
-               Console.WriteLine("the map location is not on the map!");
+               Console.WriteLine(ex.Message);
            }
-
-
         }
     }
 }
